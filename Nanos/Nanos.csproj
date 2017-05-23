@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="injectionist" Version="4.0.0-b03" />
+    <PackageReference Include="serilog" Version="2.4.0" />
+  </ItemGroup>
+
+</Project>
